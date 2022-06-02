@@ -1,0 +1,53 @@
+/* CSS styles */
+h1 {
+ padding: 40px;
+  text-align: center;
+  background: lightgreen ;
+}
+h2 {
+ padding: 4px;
+  background: lightgreen ;
+}
+.header {
+  padding: 40px;
+  text-align: center;
+  background:  lightgray;}
+.header h1 {
+  font-size: 30px;
+}
+.topnav {
+  overflow: hidden;
+  background-color: lightgray;
+}
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 12px 10px;
+  text-decoration: none;
+}
+.topnav a:hover {
+  background-color: lightgreen;
+  color: black;
+}
+.fakeimg {
+  background-color: lightgreen;
+  width: 60%;
+  padding: 30px;
+}  
+.card {
+  background-color: lightgray;
+  padding: 5px;
+  margin-top: 12px;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.table {width: 500px;
+border:1px solid #2e2929;}
+
+#naslov {background-color: gray;}
+#podnaslov {background-color:lightyellow;}
